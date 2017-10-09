@@ -1,4 +1,5 @@
 Pod::Spec.new do |s|
+
 s.name         = "Vdopia_Interstitial_SDK"
 s.version      = "2.5.0"
 s.summary      = "A vdopiasdk mobile advertising sdk"
